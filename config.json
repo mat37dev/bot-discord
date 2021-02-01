@@ -1,0 +1,16 @@
+{
+    "token": "ODA1NDcwODY4OTA5MDY0MjEy.YBbXNA.N68PLZ48naPrgEVPJkwVnxW4gCw",
+    "prefix": "!",
+    "reactionRole": {
+        "805822383948562462" : {
+            "removable": true,
+            "emojis": [{
+                "name" : "🤔",
+                "roles": "805824138749018113"
+            },{
+                "name" : "😉",
+                "roles": "805825055375228999"
+            }]
+        }
+    }
+}
